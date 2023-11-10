@@ -71,9 +71,16 @@ Remember to check the official Git documentation for more detailed assistance.
 
 ## Authors
 
-Contributors names and contact info
+**Author:**
 
-N/A
+You can reach out to me for suggestions, comments, or just to chat:
+
+- Adrian Salitico
+  - [GitHub](https://github.com/frogerall)
+  - [LinkedIn](https://linkedin.com/in/nairda4)
+  - Email: saliticoadrian@gmail.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
